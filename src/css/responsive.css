@@ -1,0 +1,69 @@
+@media screen and (max-width: 960px){
+
+    .module-1{
+        text-align: center;
+    }
+
+
+    .infos{
+        text-align: center;
+        float: none;
+        display: inline-block;
+        height: auto;
+        margin-top: 20px;
+    }
+}
+
+
+@media screen and (max-width: 768px){
+
+    .flex-mosaic{
+        display: block;
+    }
+
+
+    .banner-mosaic{
+        width: 100%;
+        height: 300px;
+    }
+
+
+    .module-2{
+        padding: 0 15px 50px 15px;
+    }
+
+
+    .text-box{
+        width: 100%;
+        margin: 5px 0;
+        text-align: center;
+    }
+}
+
+
+@media screen and (max-width: 510px){
+
+    .box-logo{
+        float: none;
+        display: inline-block;
+        margin-left: 5px;
+        margin-top: 10px;
+    }
+
+
+    header{
+        text-align: center;
+    }
+
+
+    .infos{
+        width: 90%;
+        margin: 20px auto;
+    }
+
+
+    .infos h2{
+        width: 111.6%;
+    }
+
+}
